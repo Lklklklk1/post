@@ -1,3 +1,24 @@
+C:\Users\W999\Desktop\scons-4.8.0>python -mpip install -U pip
+Requirement already satisfied: pip in c:\users\w999\appdata\local\programs\python\python312\lib\site-packages (24.2)
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000028EAECCEA50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/pip/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000028EAECCEC90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/pip/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000028EAECCEE40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/pip/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000028EAECCF050>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/pip/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000028EAECCF260>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/pip/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 C:\Users\W999\Desktop\scons-4.8.0>python -m pip install .
 Processing c:\users\w999\desktop\scons-4.8.0
   Installing build dependencies ... error
