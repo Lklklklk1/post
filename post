@@ -8,17 +8,6 @@ WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 C:\Users\W999\Desktop\scons-4.8.0>python -m pip install .
 Processing c:\users\w999\desktop\scons-4.8.0
   Installing build dependencies ... error
